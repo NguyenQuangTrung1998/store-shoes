@@ -1,0 +1,22 @@
+.search{
+    max-width: 500px;
+    border: none;
+    margin: 50px auto;
+    
+}
+.search input{
+    height: 40px;
+    width: 100%;
+    border: solid 1px #dedede;
+}
+.search input:focus{
+    outline: solid 1px rgb(125, 126, 121) ;
+    box-shadow: rgb(75, 75, 72) 5px 5px 10px ;
+    transition: 0.5s;
+}
+@media (max-width:650px){
+    .search{
+        max-width: 300px;
+        
+    }
+}

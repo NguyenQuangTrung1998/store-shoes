@@ -1,0 +1,8 @@
+.Detail{
+    max-width: 1200px;
+    width: 100%;
+}
+.DetailItem{
+    width: 300px;
+    margin: 50px auto;
+}

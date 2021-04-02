@@ -1,0 +1,11 @@
+*{
+  padding:0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.App {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0px auto;
+}
+
